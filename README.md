@@ -1,5 +1,6 @@
 ### Olá, eu sou o Heytor Borges 
 
+- 📚  1/5 Analise e desenvolvimento de Sistemas FAM-SP
 - 📚 Atualmente estudando Python 
 - 📫 Contate-me no email: heytorborges06@gmail.com
 - 😄 Pronouns: ele/dele
