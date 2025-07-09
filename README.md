@@ -1,7 +1,6 @@
 ### Olá, eu sou o Heytor Borges 
 
 - 📚 Atualmente estudando Python 
-- 👯 I’m looking to collaborate on
 - 📫 Contate-me no email: heytorborges06@gmail.com
 - 😄 Pronouns: ele/dele
 
